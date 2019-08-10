@@ -1,0 +1,51 @@
+
+Ó³ÏñÃû³Æ                       PID ·þÎñ                                        
+========================= ======== ============================================
+System Idle Process              0 ÔÝÈ±                                        
+System                           4 ÔÝÈ±                                        
+smss.exe                       280 ÔÝÈ±                                        
+csrss.exe                      372 ÔÝÈ±                                        
+wininit.exe                    464 ÔÝÈ±                                        
+csrss.exe                      472 ÔÝÈ±                                        
+winlogon.exe                   520 ÔÝÈ±                                        
+services.exe                   564 ÔÝÈ±                                        
+lsass.exe                      576 SamSs                                       
+lsm.exe                        584 ÔÝÈ±                                        
+svchost.exe                    684 DcomLaunch, PlugPlay, Power                 
+vmacthlp.exe                   748 VMware Physical Disk Helper Service         
+svchost.exe                    792 RpcEptMapper, RpcSs                         
+svchost.exe                    876 AudioSrv, Dhcp, eventlog, lmhosts, wscsvc   
+svchost.exe                    920 AudioEndpointBuilder, CscService, Netman,   
+                                   PcaSvc, SysMain, TrkWks, UxSms              
+svchost.exe                    948 AeLookupSvc, Appinfo, AppMgmt, BITS, gpsvc, 
+                                   iphlpsvc, LanmanServer, MMCSS, ProfSvc,     
+                                   Schedule, SENS, ShellHWDetection, Themes,   
+                                   Winmgmt, wuauserv                           
+svchost.exe                    424 EventSystem, netprofm, nsi, sppuinotify,    
+                                   WdiServiceHost                              
+svchost.exe                    864 CryptSvc, Dnscache, LanmanWorkstation,      
+                                   NlaSvc                                      
+spoolsv.exe                   1132 Spooler                                     
+svchost.exe                   1164 BFE, DPS, MpsSvc                            
+svchost.exe                   1312 FDResPub, FontCache, SSDPSRV                
+VGAuthService.exe             1488 VGAuthService                               
+taskhost.exe                  1536 ÔÝÈ±                                        
+dwm.exe                       1588 ÔÝÈ±                                        
+explorer.exe                  1636 ÔÝÈ±                                        
+vmtoolsd.exe                  1664 VMTools                                     
+vmtoolsd.exe                  1212 ÔÝÈ±                                        
+WmiPrvSE.exe                  1960 ÔÝÈ±                                        
+dllhost.exe                   2068 COMSysApp                                   
+msdtc.exe                     2272 MSDTC                                       
+SearchIndexer.exe             2512 WSearch                                     
+sppsvc.exe                    2536 sppsvc                                      
+svchost.exe                   2696 WinDefend                                   
+svchost.exe                   3208 bthserv                                     
+slui.exe                      3312 ÔÝÈ±                                        
+audiodg.exe                    632 ÔÝÈ±                                        
+WmiPrvSE.exe                  1904 ÔÝÈ±                                        
+SearchProtocolHost.exe        3692 ÔÝÈ±                                        
+SearchFilterHost.exe          4032 ÔÝÈ±                                        
+cmd.exe                       3844 ÔÝÈ±                                        
+conhost.exe                   3888 ÔÝÈ±                                        
+tasklist.exe                  3784 ÔÝÈ±                                        
