@@ -1,0 +1,53 @@
+
+域配置文件 设置: 
+----------------------------------------------------------------------
+状态                                  打开
+防火墙策略                          BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (仅 GPO 存储)
+LocalConSecRules                      N/A (仅 GPO 存储)
+InboundUserNotification               启用
+RemoteManagement                      禁用
+UnicastResponseToMulticast            启用
+
+日志:
+LogAllowedConnections                 禁用
+LogDroppedConnections                 禁用
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+专用配置文件 设置: 
+----------------------------------------------------------------------
+状态                                  打开
+防火墙策略                          BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (仅 GPO 存储)
+LocalConSecRules                      N/A (仅 GPO 存储)
+InboundUserNotification               启用
+RemoteManagement                      禁用
+UnicastResponseToMulticast            启用
+
+日志:
+LogAllowedConnections                 禁用
+LogDroppedConnections                 禁用
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+
+公用配置文件 设置: 
+----------------------------------------------------------------------
+状态                                  打开
+防火墙策略                          BlockInbound,AllowOutbound
+LocalFirewallRules                    N/A (仅 GPO 存储)
+LocalConSecRules                      N/A (仅 GPO 存储)
+InboundUserNotification               启用
+RemoteManagement                      禁用
+UnicastResponseToMulticast            启用
+
+日志:
+LogAllowedConnections                 禁用
+LogDroppedConnections                 禁用
+FileName                              %systemroot%\system32\LogFiles\Firewall\pfirewall.log
+MaxFileSize                           4096
+
+确定。
+
